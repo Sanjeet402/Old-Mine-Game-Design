@@ -1,4 +1,4 @@
-# Old-Mine-Game-Design— SEP 2023–DEC 2023
+# Old-Mine-Game-Design — SEP 2023–DEC 2023
 ● Developed gold mining simulation using Python and Proximal Policy
 Optimization (PPO) algorithm.
 
